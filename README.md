@@ -8,12 +8,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuunisan&theme=dracula" height="150" alt="streak stats" />
-</div>
-
-###
-
 <h3 align="left">Programming Languages</h3>
 
 ###
@@ -148,14 +142,6 @@
 
 <div align="left">
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuunisan/yuunisan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuunisan/yuunisan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuunisan/yuunisan/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
